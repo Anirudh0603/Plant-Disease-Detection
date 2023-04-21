@@ -6,7 +6,6 @@ A Convolutional Neural Network based image classification model to disease in to
  - Model is developed over AlexNet architecture. Refer: [ImageNet classification with deep convolutional neural networks | Proceedings of the 25th International Conference on Neural Information Processing Systems - Volume 1 (acm.org)](https://dl.acm.org/doi/10.5555/2999134.2999257)
  - This model is trained on tomato disease images taken from PlantVillage dataset.
  
- 
 
 ## Files
 
