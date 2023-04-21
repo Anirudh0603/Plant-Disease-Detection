@@ -20,9 +20,3 @@ A Convolutional Neural Network based image classification model to disease in to
  - Open new anaconda prompt in project folder and run following command `flask run`
  - Now the app should be running in anaconda prompt. Open the given url in a web browser to use the app.
  
-## Demo
-Choose an image file and click on Upload or paste link to an image in the URL box and click on Proceed.
-![home](https://raw.githubusercontent.com/sudoshivam/plant-disease-DL/main/static/images/1.png)
----------------------------------
-Model will predict the disease in leaf. It also shows which disease has highest probability.
-![result](https://raw.githubusercontent.com/sudoshivam/plant-disease-DL/main/static/images/2.png)
